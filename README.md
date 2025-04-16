@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalenrichb
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Back-end Development
+- 🌱 I’m currently learning distributed systems
 - 📫 How to reach me: jalenr2004@gmail.com
 
 <!---
